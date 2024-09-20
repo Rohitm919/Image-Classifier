@@ -46,4 +46,4 @@ Once the application is running, follow these steps:
 ## Deployment
 The image classifier application is also deployed online. You can access it through the following link:
 
-https://huggingface.co/spaces/Bhogi/AI_IMAGE_CLASSIFIER
+https://huggingface.co/spaces/rohitm123/AI-Real_Image_Classifier
